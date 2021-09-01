@@ -2,12 +2,12 @@
 
 Modern website design UI / UX without any frameworks HTML, CSS, JS 
 Supports all language.
-Live demo: http://abdennour.me/Discord-Bot-Web-Template/src/
+Live demo: https://toddthegodbot.glitch.me/
 
 ![](Screenshot.png)
 
 # Meta
-Abdennour Mez – [abdennour.mez160@gmail.com](mailto:abdennour.mez160@gmail.com)
+Abdennour Mez – [ToddthegodBot@gmail.com](2nd email:tyrellcolenext@gmail.com)
 
 See ``LICENSE`` for more information.
 [NouNouDz](https://github.com/NouNouDz) 
